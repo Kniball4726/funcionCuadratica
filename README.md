@@ -1,7 +1,6 @@
-# Sistema de descuento Meli y Web
+# Calculo y graficación de funciones cuadraticas
 
-Automatización para el descuento de productos vendidos en mercado libre y pagina web (Proximamente canjes)
-
+Programa de calculo y graficación de función cuadratica a partir del valor de sus coeficientes
 ## Comenzando 🚀
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
